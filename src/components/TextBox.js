@@ -54,10 +54,10 @@ export default function TextForm(props) {
       <div className='container'>
          <h1 className={`mt-3 text-${props.mode==='light'?'dark':'light'}`}>Your text summary</h1>
          <p className={`text-${props.mode==='light'?'dark':'light'}`}>
-            {character} characters and {words} words and {capital-1} lines.
+            <b>{character}</b> characters and <b>{words}</b> words and <b>{capital-1}</b> lines.
          </p>
          <p className={`text-${props.mode==='light'?'dark':'light'}`}>
-            {timeInMinute} minute(s) required to read this document in average.
+            <b>{timeInMinute}</b> minute(s) required to read this document in average.
          </p>
          <h2 className={`my-5 text-${props.mode==='light'?'dark':'light'}`}>Preview</h2>
          <p className={`text-${props.mode==='light'?'dark':'light'}`}>{text}</p>
