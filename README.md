@@ -1,3 +1,23 @@
+
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/4674/4674833.png" width="50%">
+</div>
+<div align="center">
+  <h3><a href="https://text-utils-by-sourav.netlify.app/">Visit Website🌐</a></h3>
+</div>
+
+<ul>
+<li>💓This is a Text Util Web App built using React JS and Bootstrap. </li> 
+<li>📱Focused on the UI part with light mode and dark mode toggle.</li> 
+<li>🧑🏻‍💻Focused on the functionality, all the react hooks are used.</li> 
+<li>✨Kept very simple, yet very elegant.</li>
+<li>✅Can help you with many useful tasks on daily basis.</li>
+</ul>
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
